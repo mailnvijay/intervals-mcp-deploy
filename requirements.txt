@@ -1,1 +1,1 @@
-intervals-icu-mcp==1.0.2
+git+https://github.com/mailnvijay/intervals-icu-mcp.git@main
